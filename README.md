@@ -3,6 +3,6 @@ This project demonstrates how to scrape the list of Presidents of India from Wik
 **Prerequisites**
 Before you begin, ensure you have the following installed on your machine:
 
-1.Python 3.x
-2.requests library
-3.BeautifulSoup4 library
+Python 3.x
+requests library
+BeautifulSoup4 library
